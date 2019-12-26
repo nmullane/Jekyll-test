@@ -28,6 +28,7 @@ twitter_username: FalconWarriorr
 github_username:  FalconWarriorr
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
