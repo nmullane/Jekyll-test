@@ -22,7 +22,7 @@ title: FalconWarriorr's Something
 email: niall.web.photo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my little corner of the internet where I will be posting all the random projects I am working on as well as random probably unhelpful tutorials
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Jekyll-test" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FalconWarriorr
 github_username:  FalconWarriorr
